@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miguel B. Española</title>
+</head>
+<body>
+ 
+    <div id="top">
+ 
+        <h1>Miguel B. Española</h1>
+ 
+        <hr>
+ 
+        <!-- About Me -->
+        <div>
+            <h2>About Me</h2>
+ 
+            <p>
+                Hello! My name is <strong>Miguel B. Española</strong>. I am a BSIT student who enjoys learning programming,
+                web development, and technology. I always try to improve my skills and become a better programmer.
+            </p>
+ 
+            <p>
+                My hobbies include <i>playing basketball, Arnis, and online games.</i>
+                I also enjoy spending time with my family and friends.<br><br>
+                I believe that <u>hard work and consistency</u> are the keys to success.
+            </p>
+ 
+            <p>
+                My goal is to become a successful software developer and create useful applications
+                that can help people in their daily lives.
+            </p>
+        </div>
+ 
+        <hr>
+ 
+        <!-- Skills -->
+        <div>
+            <h2>Skills</h2>
+ 
+            <ul>
+                <li>HTML</li>
+                <li>Java Programming</li>
+                <li>Problem Solving</li>
+                <li>Basic CSS</li>
+            </ul>
+        </div>
+ 
+        <hr>
+ 
+        <!-- Hobbies -->
+        <div>
+            <h2>Hobbies</h2>
+ 
+            <ol>
+                <li>Playing Arnis</li>
+                <li>Gaming</li>
+                <li>Watching Movies</li>
+            </ol>
+        </div>
+ 
+        <hr>
+ 
+        <!-- Image -->
+        <div>
+            <h2>My Photo</h2>
+ 
+            <img src="profile.jpg"
+                 alt="Miguel's Profile Picture"
+                 width="300"
+                 height="300"
+                 style="width:100%;height:auto;">
+        </div>
+ 
+ 
+        <!-- Contact -->
+        <div id="contact">
+            <h2>0963803819</h2>
+ 
+            <p>Email: <a href="mailto:miguelespanola1@gmail.com">miguelespanola1@gmail.com</a></p>
+ 
+            <p>
+                Visit Google:
+                <a href="https://www.google.com" target="_blank">
+                    Google
+                </a>
+            </p>
+ 
+            <p>
+                <a href="#top">Back to Top</a>
+            </p>
+        </div>
+ 
+    </div>
+ 
+</body>
+</html>
